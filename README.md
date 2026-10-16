@@ -149,36 +149,8 @@ This repository organizes public resources by security domain, including general
 
 ---
 
-## Inclusion Criteria
-
-A resource is included when it is publicly accessible, substantially relevant to AI agent security, and useful for at least one of the following activities:
-
-- Literature discovery
-- Threat modeling
-- Attack implementation
-- Defense implementation
-- Benchmark selection
-- Security evaluation
-- Incident analysis
-- Reproducibility research
-
-General AI directories are excluded unless they contain a clearly identifiable agent-security section. Academic discovery platforms requiring mandatory account registration are also excluded.
-
----
 
 ## Maintenance Notice
-
-AI agent security is evolving rapidly. Before beginning a reproduction study, verify:
-
-- Publication status
-- Repository activity
-- Source-code availability
-- Dataset availability
-- Benchmark licenses
-- Model-access requirements
-- API requirements
-- Hardware requirements
-- Reproduction costs
 
 Contributions and resource suggestions are welcome through GitHub Issues or Pull Requests.
 
